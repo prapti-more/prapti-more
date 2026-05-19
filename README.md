@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prapti More</h1>
 
 <h3 align="center">
-💻 Computer Engineering Student | 🤖 Machine Learning Enthusiast | 🌱 Smart Farming Developer
+💻 Electronic and Telecommunication Engineering Student | 🤖 Machine Learning Enthusiast | 🌱 Smart Farming Developer
 </h3>
 
 <p align="center">
