@@ -97,7 +97,7 @@
 
 # 🌐 Connect With Me
 
-<p align="center"> LINKDIN,GMAIL,GITHUB
+<p align="center"> 
 
 <a href="https://www.linkedin.com/in/praptimore15">
 <img src="https://skillicons.dev/icons?i=linkedin" />
