@@ -75,7 +75,7 @@
 
 # 💻 Most Used Languages
 
-<p align="center">
+<p align="center"> HTML,CSS,PYTHON,JAVASCRIPT
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prapti_more&layout=compact&theme=radical"/>
 </p>
 
@@ -97,7 +97,7 @@
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="center"> LINKDIN,GMAIL,GITHUB
 
 <a href="https://www.linkedin.com/in/praptimore15">
 <img src="https://skillicons.dev/icons?i=linkedin" />
