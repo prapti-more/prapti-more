@@ -2,7 +2,7 @@
 
 <h3 align="center">
 💻 Electronic and Telecommunication Engineering Student | 🤖 Machine Learning Enthusiast | 🌱 Smart Farming Developer
-  Web Developer
+  ! Web Developer💻
 </h3>
 
 <p align="center">
